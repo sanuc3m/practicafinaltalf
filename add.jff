@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 6.4.--><structure>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><structure>
 	<type>turing</type>
 	<automaton>
 		<!--The list of states.-->
